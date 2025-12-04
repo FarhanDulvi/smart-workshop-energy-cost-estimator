@@ -48,7 +48,3 @@ A React-based application designed to help workshops estimate their energy costs
 - `npm run dev`: Start the development server.
 - `npm run build`: Build the application for production.
 - `npm run preview`: Preview the production build locally.
-
-## License
-
-[MIT](LICENSE)
