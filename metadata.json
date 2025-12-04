@@ -1,0 +1,5 @@
+{
+  "name": "Smart Workshop Energy Cost Estimator",
+  "description": "A React application to estimate daily and monthly energy costs for electrical machines based on power rating, operating hours, and time-of-use tariffs.",
+  "requestFramePermissions": []
+}
