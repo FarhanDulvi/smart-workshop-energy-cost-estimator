@@ -1,6 +1,7 @@
 # Smart Workshop Energy Cost Estimator
 
 A React-based application designed to help workshops estimate their energy costs efficiently.
+https://campus-energy-dashboard.vercel.app/
 
 ## Features
 
